@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://13012186855.github.io</id>
+    <id>https://13012186855.Github.io</id>
     <title>chenguan</title>
-    <updated>2021-07-22T15:27:56.119Z</updated>
+    <updated>2021-07-22T15:30:11.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://13012186855.github.io"/>
-    <link rel="self" href="https://13012186855.github.io/atom.xml"/>
+    <link rel="alternate" href="https://13012186855.Github.io"/>
+    <link rel="self" href="https://13012186855.Github.io/atom.xml"/>
     <subtitle>第一次搭建的网站</subtitle>
-    <logo>https://13012186855.github.io/images/avatar.png</logo>
-    <icon>https://13012186855.github.io/favicon.ico</icon>
+    <logo>https://13012186855.Github.io/images/avatar.png</logo>
+    <icon>https://13012186855.Github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, chenguan</rights>
     <entry>
         <title type="html"><![CDATA[第三方第三方]]></title>
-        <id>https://13012186855.github.io/post/di-san-fang-di-san-fang/</id>
-        <link href="https://13012186855.github.io/post/di-san-fang-di-san-fang/">
+        <id>https://13012186855.Github.io/post/di-san-fang-di-san-fang/</id>
+        <link href="https://13012186855.Github.io/post/di-san-fang-di-san-fang/">
         </link>
         <updated>2021-07-22T15:19:50.000Z</updated>
         <content type="html"><![CDATA[<p>的撒发生发圣诞树</p>
