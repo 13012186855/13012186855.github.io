@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://13012186855.github.io</id>
     <title>chenguan</title>
-    <updated>2021-07-22T15:17:48.411Z</updated>
+    <updated>2021-07-22T15:18:52.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://13012186855.github.io"/>
     <link rel="self" href="https://13012186855.github.io/atom.xml"/>
@@ -10,16 +10,4 @@
     <logo>https://13012186855.github.io/images/avatar.png</logo>
     <icon>https://13012186855.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, chenguan</rights>
-    <entry>
-        <title type="html"><![CDATA[测试]]></title>
-        <id>https://13012186855.github.io/post/ce-shi/</id>
-        <link href="https://13012186855.github.io/post/ce-shi/">
-        </link>
-        <updated>2021-07-22T14:14:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>测试一下<img src="http://chenguan.github.io/post-images/1626963297704.jpg" alt="" loading="lazy">😝</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>测试一下<img src="https://13012186855.github.io/post-images/1626963297704.jpg" alt="" loading="lazy">😝</p>
-<!-- more -->
-]]></content>
-    </entry>
 </feed>
